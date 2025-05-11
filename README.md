@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ganga Sakthivel</h1>
 <h3 align="center">I'm Ganga — I enjoy building clean and efficient backend systems using **Java** and **Spring Boot**. I'm passionate about SQL and databases, and I love creating RESTful APIs, writing optimized queries, and designing structured schemas.</h3>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot**, **Data Structures**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GangaSakthivel](https://github.com/GangaSakthivel)
 
